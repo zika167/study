@@ -1,0 +1,22 @@
+#main-header {
+    background-color: #333;
+    color: white;
+    padding: 25px;
+}
+
+.header {
+    text-align: center;
+    font-size: 24px;
+}
+
+.text {
+    font-size: 30px;
+    line-height: 10;
+    color: #555;
+}
+
+#unique-paragraph {
+    color: red;
+    font-weight: bold;
+}
+

@@ -1,0 +1,7 @@
+.list li {
+    color: aqua;
+}
+
+.list > li {
+    color: blueviolet;
+}
